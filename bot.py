@@ -7,10 +7,10 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import MessageEmpty
 from pyromod import listen
 
-#pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+#pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("7150590431:AAF3_z3OZ6HEgqUjRr9V6sJel6wfH3M0NrU")
 API_ID = os.environ.get("API_ID")
 API_HASH = os.environ.get("API_HASH")
 
